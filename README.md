@@ -1,4 +1,4 @@
-# Text generation in microcontrollers using CircutPython and  Markov Chains
+# Generating text on microcontrollers using CircutPython and  Markov Chains
 
 ![](text_gen_title.png)
 
