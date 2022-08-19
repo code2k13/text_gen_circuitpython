@@ -1,4 +1,4 @@
-# Text generation in microcontrollers using CircutPython and  Marko Chains
+# Text generation in microcontrollers using CircutPython and  Markov Chains
 A program written for circuitpython that generates random text (dinosaur names) using charactor level Markov Chains
 
 
