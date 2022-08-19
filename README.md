@@ -18,7 +18,7 @@ This code generates random text using charactor level [Markov Chains](https://en
 - Copy **generate_text.py**, **marker_chain_parser.py** and **dino_chain.json** to your CircuitPython device.
 - Check output on a serial monitor.
 
-> Alternatively you skip steps 1 and 2 and   run the 'cp_text_gen.ipyb' Jupyter notebook to generate **dino_chain.json**.
+> Alternatively you skip steps 1 and 2 and   run the 'text-generation-on-microcontrollers.ipynb' Jupyter notebook to generate **dino_chain.json**. This notebook is also available on Kaggle: https://www.kaggle.com/code/finalepoch/text-generation-on-microcontrollers
 
 ## Output on serial monitor (generate_text.py)
 
