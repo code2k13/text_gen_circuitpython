@@ -27,7 +27,7 @@ This code generates random text using charactor level [Markov Chains](https://en
 
 ## Output on OLED display (generate_text_oled.py)
 
-This program requires an I2C OLED display (128x64) to be connected to the board. The example assumes Pi Pico board, so the OLED is connect to GP5(SLK) and GP4 (SDA)
+This program requires an I2C OLED display (128x64) to be connected to the board. The example assumes Pi Pico board, so the OLED is connect to GP5(SLK) and GP4(SDA)
 
 ![Pi Pico running circuit python and display random names](pipico_text_generator.png)
 
