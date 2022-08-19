@@ -1,5 +1,7 @@
 # Text generation in microcontrollers using CircutPython and  Markov Chains
 
+![](text_gen_title.png)
+
 This code generates random text using charactor level [Markov Chains](https://en.wikipedia.org/wiki/Markov_chain). It has been written for [CircuitPython](https://docs.circuitpython.org/en/latest/README.html) and should run on [wide variety of boards](https://blog.adafruit.com/2019/01/26/circuitpython-is-supported-on-28-boards-and-2-more-that-are-shipping-but-not-in-releases-yet-for-a-total-of-30-different-boards-circuitpython-adafruit-arduino-bwshockley-electronicats-makerd/) supporting it. By default the code creates a charactor level Markov Chain which can be used for generating random dinosaur names. You can train a charactor level Markov Chain model on any time of data  using this code.
 
 ## Why Markov Chains ?
